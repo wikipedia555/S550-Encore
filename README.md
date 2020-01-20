@@ -19,3 +19,6 @@ You can also download the project, and assemble it in an android studio with all
 ## Authors
 Ilya Starodubtsev [vk.com](https://vk.com/id19640082)  Email: kentbrokmen55@gmail.com
 
+Button Design:
+Demidova M. Email: mirademidova1096@gmail.com
+

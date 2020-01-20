@@ -154,7 +154,7 @@ public class MainActivity extends AppCompatActivity {
 //                            consumerIrManager.transmit(frequency, surrCode);
 //
 //                        }
-//                    },50);
+//                    },6000);
 
                 }
                 catch(UnsupportedOperationException e)
