@@ -9,7 +9,7 @@ Installation Instructions and Specifications
 * phone with ir port
 
 **Install:**
-To install, you need to download the .apk file from the folder [click]() and installing to yout device .
+To install, you need to download the .apk file from the folder [click](https://github.com/wikipedia555/S550-Encore/raw/master/S550_Encore.apk) and installing to yout device .
 
 You can also download the project, and assemble it in an android studio with all the necessary parameters and changes.
 
