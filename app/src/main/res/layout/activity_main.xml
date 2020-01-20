@@ -151,25 +151,25 @@
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:id="@+id/frnt"
-                    android:background="@drawable/line1button"
+                    android:background="@drawable/frnt"
                     android:layout_margin="15dp"/>
                 <ImageButton
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:id="@+id/cen"
-                    android:background="@drawable/line2button"
+                    android:background="@drawable/cen"
                     android:layout_margin="15dp"/>
                 <ImageButton
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:id="@+id/tre"
-                    android:background="@drawable/opticalbutton"
+                    android:background="@drawable/tre"
                     android:layout_margin="15dp"/>
                 <ImageButton
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:id="@+id/adjplus"
-                    android:background="@drawable/coaxialbutton"
+                    android:background="@drawable/adjplus"
                     android:layout_margin="15dp"/>
             </LinearLayout>
         </LinearLayout>
@@ -190,25 +190,25 @@
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:id="@+id/rear"
-                    android:background="@drawable/bluetoothbutton"
+                    android:background="@drawable/rear"
                     android:layout_margin="15dp"/>
                 <ImageButton
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:id="@+id/sw"
-                    android:background="@drawable/previousbutton"
+                    android:background="@drawable/sw"
                     android:layout_margin="15dp"/>
                 <ImageButton
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:id="@+id/bass"
-                    android:background="@drawable/play_pausebutton"
+                    android:background="@drawable/bass"
                     android:layout_margin="15dp"/>
                 <ImageButton
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:id="@+id/adjminus"
-                    android:background="@drawable/nextbutton"
+                    android:background="@drawable/adjminus"
                     android:layout_margin="15dp"/>
             </LinearLayout>
         </LinearLayout>
@@ -263,13 +263,13 @@
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:id="@+id/channel51"
-                android:background="@drawable/plusbutton"
+                android:background="@drawable/channel51"
                 android:layout_margin="15dp"/>
             <ImageButton
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:id="@+id/channel2"
-                android:background="@drawable/plusbutton"
+                android:background="@drawable/channel2"
                 android:layout_margin="15dp"/>
         </LinearLayout>
     </LinearLayout>
@@ -285,13 +285,13 @@
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:id="@+id/reset"
-                android:background="@drawable/minusbutton"
+                android:background="@drawable/reset"
                 android:layout_margin="15dp"/>
             <ImageButton
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:id="@+id/surr"
-                android:background="@drawable/plusbutton"
+                android:background="@drawable/surr"
                 android:layout_margin="15dp"/>
             <ImageButton
                 android:layout_width="50dp"
